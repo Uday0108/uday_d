@@ -1,0 +1,16 @@
+.buttonsB:hover{
+    color:white;
+    text-decoration: underline 0.1px white;
+}
+.cvButton:hover{
+    box-shadow: 4px 5px 0em   #ffffff;
+    color: rgb(255, 255, 255); 
+}
+
+.symbols:hover{
+    height: 60;
+    width: 60;
+}
+button{
+    cursor: pointer;
+}
